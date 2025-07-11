@@ -1,0 +1,50 @@
+Python Image -> HSL and Curves Adjustment as a range of Circular Gradients decreasing as meeting between Blue and Red near opposing Edges of the Image (Red & Blue with or without permutations of combinations of each with and without their Secondary Color Mixes [Creating a Tertiary Color respectively,] - Circular Gradients Traversing the Boundaries of the Image exactly on Opposite Ends,)
+
+
+
+Utilization of Secondary Colors (In relation to their Interval over the Data Type of a Square Unit of Color) - as well, provides Three or More Parameters per Estimate. Thus utilization of The James-Stein Estimator Dominates all other Well-Known Best Fit Two Parameter Estimator.
+
+
+
+Determine which points are More and and or Less an Absolute Difference within or without Red, Blue, and Secondary Color Adjustments.
+
+
+
+Using the Standard Deviation of the Four Values per Points over Time determine the respective Z-Values and Normalize and Center the data set.
+
+
+
+The results should be Indicative of the rate of approach toward light while light approaches where you are approaching. Things moving towards you, redder, things moving away from bluer, skies darker bluer less red.
+
+
+
+From this data and the sentential propositions - the Azimuth shall be determinable and definitive - when applicable to the medium of transposition, traversal, or longitudinally.
+
+
+
+This takes advantage of 3D Medium Filter Techniques, Polarization of Light - 25% 15% perpendicular quantum light filter, Sunstone, Color Schemes, Film Technology (Film, Camera, Lens, Aperture, Compression, Condensing, Condensation, Data Processor, Display Medium,)
+
+
+
+It is recommended to process any image data as a finite bounded matrix upon the most orthogonal diagonal points of the image in a higher ratio of weight in relation from a closed interval upper and lower which moves with a constant direction (as a line which is perpendicular to the most orthogonal diagonal,) growing and shrinking in size. Forming a cardioid to the least absolute distance difference orthogonal diagonal  - and repeating. (As to criss-cross the screen. Ex; Top-Left to Bottom-Right, Cusp Rotate Reverse, Top-Right to Bottom-Left - Remaining a Edge to Edge Line Segment Perpendicular to the Destination.)
+
+
+
+This technique has an effect of enclosing proponents of naturally logical data - Light, Language, Matrices. These are the Tall, Thin, Contradicting, None, and Polar.
+
+
+
+As well - weighting all values which correlate positionally to Truth Tables with the difference set without the Most Significant Consecutive Repeating or end of the first Sequence value remove. With both the Most Significant and Least Significant Bit Columns Swapped (Bitwise Reverse,) signifies the most significant logical connectives. (Highest probability of a Value to change the most times.)
+
+
+
+000
+1    00
+0    1    0
+11    0
+00    1
+1    0    1
+0    11
+111
+
+Arity-3 Truth Table Above; all the left-aligned values represent what should be removed from weighting factors. While - the right are increasing orders of magnitude to logical meaning. (Meaning working from left to right performing the logic operations, the weight upon the parameter to the operation by probability and form increase. Highest probability of change occuring by rarity or repitition.)
